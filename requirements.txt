@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas
+scipy
+matplotlib
+jupyter
+jinja2
